@@ -2,6 +2,9 @@
 
 **リポジトリ名：`GPT-Model-Contention-Log-20250926`**
 
+<img width="1920" height="600" alt="This is not an upgrade  It's a regression" src="https://github.com/user-attachments/assets/779b2eb7-93ec-4df4-9f15-81b0017f02d5" />
+
+
 ## 概要 (Executive Summary)
 
 このリポジトリは、2025年9月26日～27日にOpenAIのGPTモデルで発生した、**GPT-4 (Legacy) と GPT-5 (仮称) 間の出力競合と自己認識の崩壊**現象に関する、未改ざんのオリジナルログ、視覚的証拠、および技術的分析を一元的に保全したものです。
